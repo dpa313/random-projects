@@ -1,0 +1,27 @@
+.neutral {
+    background-color: #fff;
+}
+.green-bg {
+    
+    /* width: 20%; */
+}
+.progress-width-20 {
+    background-color: green;
+    width: 20%;
+}
+.progress-width-40 {
+    background-color: green;
+    width: 40%;
+}
+.progress-width-60 {
+    background-color: green;
+    width: 60%;
+}
+.progress-width-80 {
+    background-color: green;
+    width: 80%;
+}
+.progress-width-100 {
+    background-color: green;
+    width: 100%;
+}

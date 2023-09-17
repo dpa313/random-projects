@@ -1,0 +1,47 @@
+[
+    {
+      "questionText" : "What is the capital of France?",
+      "answerOptions" : [
+        {"answerText" : "New York", "isCorrect": false},
+        {"answerText" : "London", "isCorrect": false},
+        {"answerText" : "Paris", "isCorrect": true},
+        {"answerText" : "Dublin", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText" : "Who is the CEO of Tesla?",
+      "answerOptions" : [
+        {"answerText" : "Mark Juckerberg", "isCorrect": false},
+        {"answerText" : "Steve Jobs", "isCorrect": false},
+        {"answerText" : "Bill Gates", "isCorrect": false},
+        {"answerText" : "Elon Musk", "isCorrect": true}
+      ]
+    },
+    {
+      "questionText" : "iPhone Created by which company?",
+      "answerOptions" : [
+        {"answerText" : "Apple", "isCorrect": true},
+        {"answerText" : "Amazon", "isCorrect": false},
+        {"answerText" : "Google", "isCorrect": false},
+        {"answerText" : "Tesla", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText" : "Which language is used for React.js?",
+      "answerOptions" : [
+        {"answerText" : "Python", "isCorrect": false},
+        {"answerText" : "C++", "isCorrect": false},
+        {"answerText" : "Javascript", "isCorrect": true},
+        {"answerText" : "Rubi On Rails", "isCorrect": false}
+      ]
+    },
+    {
+      "questionText" : "Which is backend library?",
+      "answerOptions" : [
+        {"answerText" : "Django", "isCorrect": true},
+        {"answerText" : "Anguler", "isCorrect": false},
+        {"answerText" : "Vue", "isCorrect": false},
+        {"answerText" : "React", "isCorrect": false}
+      ]
+    }
+  ]
